@@ -1,1 +1,1 @@
-# R-BLOG-SKKU
+# R-SKKU-BLOG
