@@ -15,6 +15,8 @@ hugo thema를 활용한 블로그 만들기
 
 Github:
 
+https://github.com/issoni21/R-SKKU-EXAM-SH/tree/main/content/post
+
 https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/blogmake.R
 
 https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/config.yaml
