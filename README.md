@@ -2,9 +2,9 @@
 
 ## Final exam
 ### Q1. R markdown
-File.zip : finalexam_songheekim.zip
+File.zip: finalexam_songheekim.zip
 
-OR github - docs(finalexam_Q1)
+Github file: docs(finalexam_Q1)
 
 URL: https://issoni21.github.io/R-SKKU-EXAM-SH/fianlexam_sh.html
 
