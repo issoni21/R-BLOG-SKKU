@@ -32,4 +32,4 @@ Github : https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/shinyapp_sh.R
 
 URL : [https://464680f36ee44a3aae493c51f480661e.app.rstudio.cloud/p/f44b9332/](https://464680f36ee44a3aae493c51f480661e.app.rstudio.cloud/p/f44b9332/)
 
-App : 
+ShinyApp : https://96j4ya-issoni21.shinyapps.io/finalexam/?_ga=2.160473854.2147225252.1653901198-1508809495.1653901198
