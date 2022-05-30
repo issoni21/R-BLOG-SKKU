@@ -13,7 +13,9 @@ URL: https://issoni21.github.io/R-SKKU-EXAM-SH/fianlexam_sh.html
 ### Q2. Blog making
 hugo thema를 활용한 블로그 만들기
 
-Github: https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/blogmake.R
+Github:
+https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/blogmake.R
+https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/config.yaml
 
 
 netlify: https://magenta-sunflower-5f0a19.netlify.app/
