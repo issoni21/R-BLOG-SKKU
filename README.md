@@ -30,4 +30,6 @@ Netlify : https://magenta-sunflower-5f0a19.netlify.app/
 
 Github : https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/shinyapp_sh.R
 
+URL : https://464680f36ee44a3aae493c51f480661e.app.rstudio.cloud/p/f44b9332/
+
 App : 
