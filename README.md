@@ -14,7 +14,9 @@ URL: https://issoni21.github.io/R-SKKU-EXAM-SH/fianlexam_sh.html
 hugo thema를 활용한 블로그 만들기
 
 Github:
+
 https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/blogmake.R
+
 https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/config.yaml
 
 
