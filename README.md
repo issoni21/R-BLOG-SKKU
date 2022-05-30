@@ -22,8 +22,12 @@ https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/blogmake.R
 https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/config.yaml
 
 
-netlify : https://magenta-sunflower-5f0a19.netlify.app/
+Netlify : https://magenta-sunflower-5f0a19.netlify.app/
 
 
 
 ### Q3. Shinyapp
+
+Github : https://github.com/issoni21/R-SKKU-EXAM-SH/blob/main/shinyapp_sh.R
+
+App : 
